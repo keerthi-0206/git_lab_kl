@@ -1,3 +1,7 @@
 What is your favorite color?
+<<<<<<< HEAD
 dark green
 rose gold
+=======
+Dark green
+>>>>>>> 7572645baf9f4bfef8b740b14dc6f976bd792430
