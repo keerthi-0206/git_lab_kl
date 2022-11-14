@@ -1,7 +1,5 @@
 What is your favorite ice cream flavor?
-<<<<<<< HEAD
 coffee
 cookies and cream
-=======
 Coffee
->>>>>>> 7572645baf9f4bfef8b740b14dc6f976bd792430
+
